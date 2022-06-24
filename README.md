@@ -1,2 +1,2 @@
-# Rits_frontendwebsite
-This is a repository of a sample frontend website for final project
+# Frontendwebsite_demo
+This is a repository of a demo frontend website
